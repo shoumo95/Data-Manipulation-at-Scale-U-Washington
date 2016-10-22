@@ -1,5 +1,5 @@
-datasci_course_materials
+Data Manipulation at Scale
 ========================
 
-Public repository for course materials for the Data Science at Scale specialization offered by Coursera and the University of Washington.
+Assignment for the Data Science at Scale specialization offered by the University of Washington.
 
